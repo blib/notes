@@ -3,21 +3,33 @@
 ## Рефлексия и кодогенерация:
 
 https://blog.golang.org/laws-of-reflection
+
 https://habrahabr.ru/post/269887/
+
 https://golang.org/src/go/ast/example_test.go
+
 https://github.com/golang/tools/blob/master/cmd/stringer/stringer.go
+
 https://golang.org/pkg/reflect/
+
 http://blog.burntsushi.net/type-parametric-functions-golang/
+
 https://habrahabr.ru/post/269887/
+
 https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d
+
 https://medium.com/kokster/go-reflection-creating-objects-from-types-part-ii-composite-types-69a0e8134f20
-Производительность:
+
+## Производительность:
 
 ### Материалы на русском:
 
 https://habrahabr.ru/company/badoo/blog/301990/
+
 https://habrahabr.ru/company/badoo/blog/324682/
+
 https://habrahabr.ru/company/badoo/blog/332636/
+
 https://habrahabr.ru/company/mailru/blog/331784/ - статья про то как Почта@Mail.ru держит 3 миллиона вебсокет-соединений
 
 ### Материалы на английском:
