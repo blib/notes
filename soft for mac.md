@@ -6,7 +6,9 @@
 
 brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo betterzip 
 
-brew install starship
+brew install starship direnv
+
+eval "$(direnv hook zsh)"
 
 brew install zsh-completions zsh-history-substring-search zsh-syntax-highlighting 
 
