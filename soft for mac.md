@@ -8,8 +8,6 @@ brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspici
 
 brew install starship direnv
 
-eval "$(direnv hook zsh)"
-
 brew install zsh-completions zsh-history-substring-search zsh-syntax-highlighting 
 
 
@@ -34,6 +32,9 @@ source /opt/homebrew/share/zsh-history-substring-search/zsh-history-substring-se
 
 #bindkey '^[[A' history-substring-search-up
 #bindkey '^[[B' history-substring-search-down
+
+eval "$(direnv hook zsh)"
+
 
 ```
 
